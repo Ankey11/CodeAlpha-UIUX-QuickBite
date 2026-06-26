@@ -18,3 +18,17 @@ Screens:
 - Splash Screen
 - Login Screen
 - Home Screen
+
+
+
+
+Task 3 – UX Case Study
+
+Case Study:
+Zomato
+
+Includes:
+- User Journey
+- Strengths
+- Weaknesses
+- Suggested Improvements
