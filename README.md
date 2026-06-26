@@ -9,3 +9,12 @@ Screens:
 
 Tool:
 Figma
+
+
+
+Task 2 – High Fidelity UI
+
+Screens:
+- Splash Screen
+- Login Screen
+- Home Screen
